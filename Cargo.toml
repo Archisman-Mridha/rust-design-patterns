@@ -1,0 +1,10 @@
+[package]
+name = "rust-design-patterns"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name= "use-borrowed-types-for-arguments"
+path= "./idioms/use-borrowed-types-for-arguments/example.rs"
+
+[dependencies]
