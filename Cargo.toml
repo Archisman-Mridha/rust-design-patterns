@@ -4,11 +4,11 @@ version = "0.1.0"
 edition = "2021"
 
 [[bin]]
-name= "use-borrowed-types-for-arguments"
-path= "./idioms/use-borrowed-types-for-arguments/example.rs"
+name= "1-use-borrowed-types-for-arguments"
+path= "./idioms/1-use-borrowed-types-for-arguments/example.rs"
 
 [[bin]]
-name= "constructor"
-path= "./idioms/constructor/example.rs"
+name= "2-constructor"
+path= "./idioms/2-constructor/example.rs"
 
 [dependencies]
