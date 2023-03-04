@@ -7,4 +7,8 @@ edition = "2021"
 name= "use-borrowed-types-for-arguments"
 path= "./idioms/use-borrowed-types-for-arguments/example.rs"
 
+[[bin]]
+name= "constructor"
+path= "./idioms/constructor/example.rs"
+
 [dependencies]
